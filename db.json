@@ -1,0 +1,20 @@
+{
+  "voters": [
+    {
+      "id": "77fo06nwt5ml4ycj812",
+      "nombre": "Juan Carlos",
+      "email": "juanca@hotmail.com",
+      "cedula": "18394321",
+      "edad": "34",
+      "estado": "Lara"
+    },
+    {
+      "id": "g16wr80lvzal4ycjvn0",
+      "nombre": "Fanny Del Carmen",
+      "email": "fanny.28@gmail.com",
+      "cedula": "7909149",
+      "edad": "42",
+      "estado": "Carabobo"
+    }
+  ]
+}
